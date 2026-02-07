@@ -1,5 +1,7 @@
 # Mathematical Framework for AI Compliance and Truthfulness
 
+© 2026 MT Tech Industries LLC. All rights reserved. Created by Marc Tuinier.
+
 ## Overview
 
 This repository implements a mathematical framework for ensuring AI compliance, truthfulness, and prevention of drift using penalty-augmented objective functions. The framework is based on the Omnimathematics paradigm that uses mathematical constraints to force AI systems to remain truthful and compliant.

@@ -1,5 +1,7 @@
 # Integrated Compliance and Safety Framework
 
+© 2026 MT Tech Industries LLC. All rights reserved. Created by Marc Tuinier.
+
 This repository contains an advanced implementation of the Omnimathematics Framework that combines traditional compliance checking with the innovative Imaginary Realm Safety Framework. The system ensures AI truthfulness, prevents drift and deception, and maintains operational safety through mathematical enforcement.
 
 ## Overview

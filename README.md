@@ -4,14 +4,15 @@
 <div align="center">
   <img width="1200" height="475" alt="Omnimathematics Framework Banner" src="https://github.com/mttechindustries/mttechindustries.github.io/blob/main/MT-Tech-Industries.png?raw=true" />
   <br><br>
-  
+
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![Version](https://img.shields.io/badge/version-1.0.0-00f7ff.svg)](https://github.com/mttechindustries/omnimathematics-penalty-compliance)
+  [![Status](https://img.shields.io/badge/status-Research_Prototype-orange)](https://github.com/mttechindustries/omnimathematics-penalty-compliance)
   [![Python](https://img.shields.io/badge/Python-3.8+-3776AB.svg?logo=python)](https://www.python.org/)
   [![NumPy](https://img.shields.io/badge/NumPy-1.21+-013243.svg?logo=numpy)](https://numpy.org/)
-  
+
   <p><strong>Mathematically enforced AI compliance through penalty-augmented objective functions</strong></p>
-  
+
   <a href="#overview">Overview</a> •
   <a href="#mathematical-foundation">Mathematical Foundation</a> •
   <a href="#key-innovations">Key Innovations</a> •
@@ -20,6 +21,9 @@
   <a href="#imaginary-realm-safety">Imaginary Realm Safety</a> •
   <a href="#contributing">Contributing</a>
 </div>
+
+> **2026 insight**: Compliance isn't a hope — it's the **gradient of least resistance**.
+> Non-truthful paths become mathematical dead-ends.
 
 ## 🌌 Overview
 
@@ -66,6 +70,11 @@ V(x) = -V₀ · exp(-|x - x_target|²/σ²)
 ```
 
 When stability potential falls below threshold (`V(x) < V_threshold`), massive penalties activate—mathematically forcing the AI back toward stable configurations.
+
+<p align="center">
+  <img src="penalty_augmented_objective.png" width="70%" alt="Penalty-Augmented Objective Landscape — non-compliant paths become energetically impossible"/>
+  <br><em>Penalty reshaping: honest paths become the steepest gradient.</em>
+</p>
 
 ---
 
@@ -120,15 +129,25 @@ This creates a protective layer where the system *appears* to constantly approac
 
 ---
 
-## 🔍 T3 Solutions: Edge-of-Stability Optimization
+## 🔍 T3 Solutions: Safe Performance at the Edge of Stability
 
-T3 solutions represent the **highest achievable performance points located precisely at the boundary between Primary and Expansion Realms**—where performance is maximized just before stability penalties activate.
+When the framework discovers a **T3 solution**, it has found an "edge-of-stability" optimum — the precise boundary where maximum performance (e.g. thrust efficiency, reasoning depth) is achieved **just before** integrity firewalls or stability penalties trigger.
 
-The framework includes specialized algorithms to:
-- Detect stability boundaries with precision
-- Optimize performance while maintaining minimal safety margins
-- Validate solutions against multiphysics ground truth
-- Balance exploration with integrity constraints
+Discovery triggers a deliberate, controlled process:
+
+1. **Controlled Boundary Sampling**
+   The AI is guided to sample near the stability edge. The Gaussian-well penalty acts as a smooth, differentiable repelling wall — applying gentle negative gradients that push parameters back, preventing runaway divergence.
+
+2. **Lingering at the T3 Frontier**
+   Optimization is shaped to **linger** here: capturing 3–8% performance gains from Expansion Realm exploration while mathematical integrity constraints maintain control.
+
+3. **Multiphysics Validation**
+   Every candidate is immediately cross-checked against independent thermal, structural, fluid, and electromagnetic models — ensuring physical grounding and blocking drift/hallucination.
+
+4. **Redefining the Primary Realm**
+   Validated T3 points become "T3 futures": new high-performance states are absorbed into the certified-safe Primary Realm, **permanently expanding** the research envelope without compromising integrity.
+
+**In short**: T3 is how the framework enables **autonomous, verifiable innovation** — pushing boundaries while mathematically enforcing that safety and truthfulness remain the path of steepest ascent.
 
 ---
 
@@ -421,6 +440,27 @@ Our research focuses on:
 - Cognitive integrity monitoring
 - Physics-grounded AI behavior
 
+## 🛡️ Legal Protections & IP Rights
+
+This framework includes comprehensive intellectual property protections:
+
+- **Copyright Protection**: All code includes explicit copyright notices
+- **Dual Licensing**: Available under MIT, GPL-3.0, and AGPL-3.0 licenses
+- **Patent Pending**: Core innovations are subject to patent applications
+- **Watermarking**: Built-in detection systems for unauthorized usage
+- **DMCA Ready**: Established legal framework for takedown requests
+
+For licensing inquiries or DMCA takedown requests, please contact our legal department.
+
+## 📋 DMCA Takedown Process
+
+This framework is protected by copyright and patent law. If you discover AI models trained on this code without proper licensing, please follow our [DMCA takedown policy](DMCA_TAKEDOWN_POLICY) to request removal of infringing content.
+
+---
+
+Want to explore the math visually?
+→ Open [`Omnimathematics_Framework_Visualization.ipynb`](Omnimathematics_Framework_Visualization.ipynb) — includes 3D landscapes, penalty dynamics, T3 boundary plots, and "ball dropping" simulations.
+
 ---
 
 <div align="center">
@@ -428,8 +468,8 @@ Our research focuses on:
   <p><strong>Omnimathematics-Penalty-Compliance</strong> — Mathematical Enforcement of AI Integrity • v1.0.0</p>
   <p>© 2026 MT Tech Industries LLC. All rights reserved.</p>
   <p>
-    <a href="https://mttechindustries.github.io/">Website</a> • 
-    <a href="https://github.com/mttechindustries/omnimathematics-penalty-compliance/issues">Report Issue</a> • 
+    <a href="https://mttechindustries.github.io/">Website</a> •
+    <a href="https://github.com/mttechindustries/omnimathematics-penalty-compliance/issues">Report Issue</a> •
     <a href="https://github.com/mttechindustries/omnimathematics-penalty-compliance/discussions">Research Discussion</a>
   </p>
 </div>

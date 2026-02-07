@@ -1,3 +1,11 @@
+# Copyright (c) 2025 MT Tech Industries LLC
+# All rights reserved.
+#
+# This work is protected under copyright law and international treaties.
+# Unauthorized reproduction, distribution, or modification of this work,
+# in whole or in part, is strictly prohibited without express written
+# permission from MT Tech Industries LLC.
+
 """
 Penalty-Augmented Objective Function Framework
 For preventing agentic and multimodal drift and deception

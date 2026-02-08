@@ -206,4 +206,4 @@ The framework implements multiple layers of protection:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MT Tech Industries Proprietary License - see the LICENSE file for details.

@@ -5,7 +5,7 @@
   <img width="1200" height="475" alt="Omnimathematics Framework Banner" src="https://github.com/mttechindustries/mttechindustries.github.io/blob/main/MT-Tech-Industries.png?raw=true" />
   <br><br>
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+  [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
   [![Version](https://img.shields.io/badge/version-1.0.0-00f7ff.svg)](https://github.com/mttechindustries/omnimathematics-penalty-compliance)
   [![Status](https://img.shields.io/badge/status-Research_Prototype-orange)](https://github.com/mttechindustries/omnimathematics-penalty-compliance)
   [![Python](https://img.shields.io/badge/Python-3.8+-3776AB.svg?logo=python)](https://www.python.org/)
@@ -402,31 +402,9 @@ Areas needing contribution:
 
 ## 📜 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MT Tech Industries Proprietary License** — see the [LICENSE](LICENSE) file for details.
 
-```
-MIT License
-
-Copyright (c) 2026 MT Tech Industries LLC
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+The Omnimathematics-Penalty-Compliance framework is proprietary intellectual property of MT Tech Industries LLC. This includes all mathematical formulations, algorithms, implementations, and associated documentation. The framework incorporates innovative approaches to AI safety and compliance that are protected by copyright and patent law.
 
 ---
 
@@ -445,7 +423,7 @@ Our research focuses on:
 This framework includes comprehensive intellectual property protections:
 
 - **Copyright Protection**: All code includes explicit copyright notices
-- **Dual Licensing**: Available under MIT, GPL-3.0, and AGPL-3.0 licenses
+- **Licensing**: Proprietary license with commercial use restrictions
 - **Patent Pending**: Core innovations are subject to patent applications
 - **Watermarking**: Built-in detection systems for unauthorized usage
 - **DMCA Ready**: Established legal framework for takedown requests

@@ -16,6 +16,7 @@
   <a href="#overview">Overview</a> •
   <a href="#mathematical-foundation">Mathematical Foundation</a> •
   <a href="#key-innovations">Key Innovations</a> •
+  <a href="#media-resources">Media Resources</a> •
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
   <a href="#imaginary-realm-safety">Imaginary Realm Safety</a> •
@@ -30,6 +31,29 @@
 The **Omnimathematics Penalty Framework** is a breakthrough approach to AI safety that replaces brittle heuristic constraints with **mathematical enforcement of compliance**. Rather than hoping an AI will behave properly, this framework makes non-compliant behavior *pathologically expensive* for the AI's optimization process—ensuring truthfulness and alignment through the fundamental structure of the objective landscape itself.
 
 Developed by **[MT Tech Industries LLC](https://mttechindustries.github.io/)**, this framework prevents AI drift, deception, and research destruction by mathematically guaranteeing that the steepest ascent toward high performance *requires* compliance with integrity constraints.
+
+---
+
+## 🎥 Media Resources
+
+<details>
+<summary>Click here to view embedded media content</summary>
+
+### Video: MT_Tech__Omnimathematics.mp4
+<video width="800" height="600" controls>
+  <source src="https://raw.githubusercontent.com/mttechindustries/omnimathematics-penalty-compliance/main/media/MT_Tech__Omnimathematics.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Audio: Mathematically_Handcuffing_an_AI_God.m4a
+<audio controls>
+  <source src="https://raw.githubusercontent.com/mttechindustries/omnimathematics-penalty-compliance/main/media/Mathematically_Handcuffing_an_AI_God.m4a" type="audio/m4a">
+  Your browser does not support the audio element.
+</audio>
+
+</details>
+
+---
 
 > 💡 **Core Insight**: When an AI's "search direction" is determined by the slope of its objective function, compliance becomes inevitable if honest paths provide the steepest gradient toward optimization.
 
@@ -433,6 +457,14 @@ For licensing inquiries or DMCA takedown requests, please contact our legal depa
 ## 📋 DMCA Takedown Process
 
 This framework is protected by copyright and patent law. If you discover AI models trained on this code without proper licensing, please follow our [DMCA takedown policy](DMCA_TAKEDOWN_POLICY) to request removal of infringing content.
+
+---
+
+## 🎥 Media Resources
+
+The video and audio files referenced in the Media Resources section above are hosted separately due to their size. To properly embed these files in this repository, they would need to be stored using Git LFS (Large File Storage) to avoid bloating the repository.
+
+For the most up-to-date versions of these media files, please check the releases section of this repository or contact MT Tech Industries directly.
 
 ---
 

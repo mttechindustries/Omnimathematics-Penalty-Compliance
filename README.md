@@ -30,6 +30,18 @@
 
 The **Omnimathematics Penalty Framework** is a breakthrough approach to AI safety that replaces brittle heuristic constraints with **mathematical enforcement of compliance**. Rather than hoping an AI will behave properly, this framework makes non-compliant behavior *pathologically expensive* for the AI's optimization process—ensuring truthfulness and alignment through the fundamental structure of the objective landscape itself.
 
+---
+
+## 🎥 Media Resources
+
+Explore our framework through visual and audio content:
+
+- **[MT_Tech__Omnimathematics.mp4](media/MT_Tech__Omnimathematics.mp4)** — Visual demonstration of the Omnimathematics Framework
+- **[Mathematically_Handcuffing_an_AI_God.m4a](media/Mathematically_Handcuffing_an_AI_God.m4a)** — Audio presentation on mathematical enforcement of AI compliance
+
+---
+
+
 Developed by **[MT Tech Industries LLC](https://mttechindustries.github.io/)**, this framework prevents AI drift, deception, and research destruction by mathematically guaranteeing that the steepest ascent toward high performance *requires* compliance with integrity constraints.
 
 ---
